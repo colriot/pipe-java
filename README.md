@@ -1,4 +1,4 @@
-pipe-java
+Pipepay API Java bindings
 =========
 
-Pipepay API Java bindings.
+
